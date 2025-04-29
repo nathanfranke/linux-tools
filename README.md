@@ -9,7 +9,7 @@ Android // Termux
 ## setup
 
 ```sh
-. ./_/bin/copy-binaries-recursive .
+. ./_/bin/copy-binaries-recursive.sh .
 ```
 
 ## usage
